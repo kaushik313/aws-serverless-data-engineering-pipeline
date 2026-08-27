@@ -1,0 +1,7 @@
+*.pem
+.env
+.env.*
+credentials*
+secrets*
+__pycache__/
+*.pyc
